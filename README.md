@@ -2,7 +2,7 @@
 
 👋 Seja bem vindo(a)!
 
-É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
+É muito bom té-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
 ## O que você vai aprender
 
@@ -28,4 +28,4 @@ Vá para a seção de [pré-requisitos](./lessons/0.md).
 
 ___
 
-Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Em breve na [**Escola Talking About Testing**](https://talkingabouttesting.coursify.me).
